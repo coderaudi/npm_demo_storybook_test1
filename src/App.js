@@ -5,6 +5,7 @@ import Button from './components/Button'
 function App() {
   return (
     <div className="App">
+    
       <Button label="Primary Button" />
       <Button
         label="Outline Button"
